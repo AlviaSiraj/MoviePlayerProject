@@ -61,7 +61,7 @@ const HomePage = () => {
                               className="play-button-icon"
                               icon={faCirclePlay}
                             />
-                          </div>eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTcyMjExNDIyMywiZXhwIjoxNzIyMTE1NjYzfQ.RbvwC9G3Di9ML5ddQ0Qz6ifLpNzjeVz-YYfDalcKWAY
+                          </div>
                         </Link>
                       </div>
                       <div className="movie-review-button-container">
