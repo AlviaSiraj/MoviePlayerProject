@@ -1,0 +1,10 @@
+.movie-list {
+    position: relative;
+    top: 100px;
+    color: white;
+}
+
+.movie-list-container{
+    background-color: #252323;
+    height: 59vw;
+}
