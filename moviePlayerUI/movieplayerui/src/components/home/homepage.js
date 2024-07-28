@@ -5,7 +5,6 @@ import NavBar from "../common/navbar";
 import MovieService from "../../services/MovieService";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCirclePlay } from "@fortawesome/free-solid-svg-icons";
-import { Link, useNavigate } from "react-router-dom";
 import Button from "@mui/material/Button";
 import "./home.css";
 
@@ -53,8 +52,9 @@ const HomePage = () => {
 
                       <div className="movie-buttons-container">
                         <h5>Trailer</h5>
-                        <Link
-                          to={movie.trailerLink}
+                        <a
+                          href={movie.trailerLink}
+                          target="_blank"
                         >
                           <div className="play-button-icon-container">
                             <FontAwesomeIcon
@@ -62,7 +62,7 @@ const HomePage = () => {
                               icon={faCirclePlay}
                             />
                           </div>
-                        </Link>
+                        </a>
                       </div>
                       <div className="movie-review-button-container">
                         <Button
