@@ -4,7 +4,7 @@
   <img src="https://www.nuget.org/profiles/MongoDB/avatar?imageSize=512" alt="React Logo" width="50" height="50">
 </p>
 
-<h2>Movie Review Site</h2>
+<h1>Movie Review Site</h1>
 This site is a movie review site, it displays a list of movies from a MongoDB database and displays the reviews and trailers for the selected movie.
 <p></p>
 <ul>
