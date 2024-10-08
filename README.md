@@ -5,6 +5,7 @@
 </p>
 
 <h4>Movie Review Site</h4>
+This site is a movie review site, it displays a list of movies from a MongoDB database and displays the reviews and trailers for the selected movie.
 <ul>
   <li>Developed, tested, and debugged a full-stack web application using <strong>React</strong> for a dynamic frontend and <strong>Spring Boot</strong> with <strong>Java</strong> for scalable backends, integrating authentication and authorization features.</li>
   <li>Utilized <strong>MongoDB</strong> for data management and <strong>Node.js</strong> to create RESTful APIs, ensuring efficient data retrieval and seamless frontend-backend communication while adhering to best practices and scalability standards.</li>
